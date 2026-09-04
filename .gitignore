@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+report/
+analysis_results.csv
+data.csv
+.vscode/
+.idea/
